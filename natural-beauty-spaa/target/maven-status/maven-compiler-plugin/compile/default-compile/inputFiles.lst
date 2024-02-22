@@ -1,0 +1,13 @@
+C:\Users\admin\IdeaProjects\natural-beauty-spaa\src\main\java\com\example\naturalbeautyspaa\common\Utility.java
+C:\Users\admin\IdeaProjects\natural-beauty-spaa\src\main\java\com\example\naturalbeautyspaa\controller\HomeController.java
+C:\Users\admin\IdeaProjects\natural-beauty-spaa\src\main\java\com\example\naturalbeautyspaa\object\entity\Dict.java
+C:\Users\admin\IdeaProjects\natural-beauty-spaa\src\main\java\com\example\naturalbeautyspaa\service\GeneralService.java
+C:\Users\admin\IdeaProjects\natural-beauty-spaa\src\main\java\com\example\naturalbeautyspaa\Exception\ApplicationException\ApplicationException.java
+C:\Users\admin\IdeaProjects\natural-beauty-spaa\src\main\java\com\example\naturalbeautyspaa\controller\PageController.java
+C:\Users\admin\IdeaProjects\natural-beauty-spaa\src\main\java\com\example\naturalbeautyspaa\object\dto\req\HomeRequest.java
+C:\Users\admin\IdeaProjects\natural-beauty-spaa\src\main\java\com\example\naturalbeautyspaa\Exception\ExceptionHandle.java
+C:\Users\admin\IdeaProjects\natural-beauty-spaa\src\main\java\com\example\naturalbeautyspaa\NaturalBeautySpaaApplication.java
+C:\Users\admin\IdeaProjects\natural-beauty-spaa\src\main\java\com\example\naturalbeautyspaa\object\dto\res\HomeResponse.java
+C:\Users\admin\IdeaProjects\natural-beauty-spaa\src\main\java\com\example\naturalbeautyspaa\service\HomeService.java
+C:\Users\admin\IdeaProjects\natural-beauty-spaa\src\main\java\com\example\naturalbeautyspaa\repository\DictRepo.java
+C:\Users\admin\IdeaProjects\natural-beauty-spaa\src\main\java\com\example\naturalbeautyspaa\Exception\ApplicationException\ValidationException.java
